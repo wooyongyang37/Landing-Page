@@ -6,6 +6,18 @@ body {
     background-color: rgb(3, 33, 69);
 }
 
-.headerTitle, .box1, .box2{
+.headerTitle {
     color: white;
+}
+
+.box1 {
+    color: white;
+}
+
+.box2 {
+    color: white;
+}
+
+.rightBox {
+    background-color: rgb(95, 93, 93);
 }
