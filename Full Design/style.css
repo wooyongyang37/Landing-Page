@@ -1,8 +1,7 @@
-body{
-    display: flex;
-    flex: auto;
+body {
+  
 }
 
-.one{
+.one {
     background-color: rgb(3, 33, 69);
 }
