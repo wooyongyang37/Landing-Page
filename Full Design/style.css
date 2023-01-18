@@ -50,11 +50,12 @@ body {
     background-color: rgb(109,116,125);
     min-width: 350px;
     min-height: 145px;
+    display: flex;
+    align-items: center;
     
 }
 
 .rightBoxTextBox {
     display: flex;
     justify-content: center;
-
 }
