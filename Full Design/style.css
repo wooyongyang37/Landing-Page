@@ -16,6 +16,10 @@ body {
     margin-bottom: 60px;
 }
 
+.headerLogo {
+    font-weight: bold;
+}
+
 .linkContainer {
     display: flex;
     gap: 10px;
