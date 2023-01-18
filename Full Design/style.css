@@ -8,6 +8,8 @@ body {
 
 .headerTitle {
     color: white;
+    display: flex;
+
 }
 
 .box1 {
