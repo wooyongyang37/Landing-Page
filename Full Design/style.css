@@ -36,6 +36,11 @@ body {
     display: flex;
 }
 
+.leftBox{
+    max-width: 200px;
+}
+
 .rightBox {
     background-color: rgb(109,116,125);
+    max-width: 200px;
 }
