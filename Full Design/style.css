@@ -69,3 +69,9 @@ button {
     color: white;
     font-size: 13px;
 }
+
+.two {
+    background-color: white;
+    padding-left: 125px;
+    padding-right: 125px;
+}
