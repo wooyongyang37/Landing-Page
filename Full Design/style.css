@@ -39,6 +39,7 @@ body {
 button {
     margin-top: 10px;
     background-color: rgb(104,159,247);
+    color: white;
 }
 
 .mainText {
