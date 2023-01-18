@@ -52,7 +52,8 @@ body {
     min-height: 145px;
     display: flex;
     align-items: center;
-    
+    justify-content: center;
+
 }
 
 .rightBoxTextBox {
