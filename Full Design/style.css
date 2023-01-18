@@ -12,6 +12,11 @@ body {
     justify-content: space-between;
 }
 
+.linkContainer {
+    display: flex;
+    
+}
+
 .box1 {
     color: white;
 }
