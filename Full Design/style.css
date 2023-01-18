@@ -6,6 +6,7 @@ body {
     background-color: rgb(31,41,55);
     padding-left: 125px;
     padding-right: 125px;
+    padding-bottom: 70px;
 }
 
 .headerTitle {
@@ -47,7 +48,6 @@ button {
 .mainText {
     display: flex;
     justify-content: space-around;
-    margin-bottom: 70px;
 }
 
 .leftBox{
