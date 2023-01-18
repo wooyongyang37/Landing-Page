@@ -75,3 +75,8 @@ button {
     padding-left: 125px;
     padding-right: 125px;
 }
+
+.twoContainer {
+    display: flex;
+    gap: 15px;
+}
