@@ -36,6 +36,10 @@ body {
     color: white;
 }
 
+button {
+    margin-top: 37px;
+}
+
 .mainText {
     display: flex;
     justify-content: space-around;
