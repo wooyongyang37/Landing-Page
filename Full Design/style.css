@@ -4,6 +4,8 @@ body {
 
 .one {
     background-color: rgb(31,41,55);
+    padding-left: 125px;
+    padding-right: 125px;
 }
 
 .headerTitle {
