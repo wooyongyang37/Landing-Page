@@ -38,6 +38,7 @@ body {
 
 button {
     margin-top: 10px;
+    background-color: rgb(104,159,247);
 }
 
 .mainText {
@@ -47,13 +48,13 @@ button {
 
 .leftBox{
     max-width: 350px;
-    max-height: 145px;
+    min-height: 145px;
 }
 
 .rightBox {
     background-color: rgb(109,116,125);
     min-width: 350px;
-    max-height: 145px;
+    min-height: 145px;
     display: flex;
     align-items: center;
     justify-content: center;
