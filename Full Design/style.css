@@ -34,13 +34,14 @@ body {
 
 .mainText {
     display: flex;
+    justify-content: space-around;
 }
 
 .leftBox{
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .rightBox {
     background-color: rgb(109,116,125);
-    max-width: 200px;
+    min-width: 300px;
 }
