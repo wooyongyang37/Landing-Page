@@ -42,10 +42,19 @@ body {
 }
 
 .leftBox{
-    max-width: 300px;
+    max-width: 350px;
+    min-height: 145px;
 }
 
 .rightBox {
     background-color: rgb(109,116,125);
-    min-width: 300px;
+    min-width: 350px;
+    min-height: 145px;
+    
+}
+
+.rightBoxTextBox {
+    display: flex;
+    justify-content: center;
+
 }
