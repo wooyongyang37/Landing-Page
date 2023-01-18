@@ -14,7 +14,8 @@ body {
 
 .linkContainer {
     display: flex;
-    
+    gap: 10px;
+    font-size: 10px;
 }
 
 .box1 {
