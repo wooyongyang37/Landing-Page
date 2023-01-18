@@ -28,7 +28,7 @@ body {
 
 .box1 {
     color: white;
-    font-size: 35px;
+    font-size: 34px;
     font-weight: bold;
 }
 
@@ -37,7 +37,7 @@ body {
 }
 
 button {
-    margin-top: 37px;
+    margin-top: 10px;
 }
 
 .mainText {
@@ -47,13 +47,13 @@ button {
 
 .leftBox{
     max-width: 350px;
-    min-height: 145px;
+    max-height: 145px;
 }
 
 .rightBox {
     background-color: rgb(109,116,125);
     min-width: 350px;
-    min-height: 145px;
+    max-height: 145px;
     display: flex;
     align-items: center;
     justify-content: center;
