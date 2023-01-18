@@ -9,7 +9,7 @@ body {
 .headerTitle {
     color: white;
     display: flex;
-
+    justify-content: space-between;
 }
 
 .box1 {
