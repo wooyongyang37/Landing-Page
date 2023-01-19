@@ -78,7 +78,9 @@ button {
 }
 
 .Box {
-    
+    min-width: 60px;
+    min-height: 60px;
+
 }
 
 .twoContainer {
