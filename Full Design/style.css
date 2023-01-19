@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .one {
@@ -76,7 +77,15 @@ button {
     padding-right: 125px;
 }
 
+.Box {
+    
+}
+
 .twoContainer {
     display: flex;
     gap: 15px;
+}
+
+.twoTextBox {
+    
 }
