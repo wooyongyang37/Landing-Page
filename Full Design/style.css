@@ -80,11 +80,11 @@ button {
 .parentContainer {
     display: flex;
     justify-content: center;
+    gap: 15px;
 }
 
 .twoContainer {
     display: flex;
-    gap: 15px;
     flex-wrap: wrap;
     flex-direction: column;
 }
