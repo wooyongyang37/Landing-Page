@@ -90,8 +90,8 @@ button {
 }
 
 .Box {
-    min-width: 60px;
-    min-height: 60px;
+    min-width: 130px;
+    min-height: 130px;
 
 }
 
@@ -100,5 +100,5 @@ button {
 }
 
 .TwoBox {
-    max-width: 100px;
+    max-width: 130px;
 }
