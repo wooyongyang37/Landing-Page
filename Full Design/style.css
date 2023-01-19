@@ -87,6 +87,7 @@ button {
     display: flex;
     gap: 15px;
     flex-wrap: wrap;
+    flex-direction: column;
 }
 
 .twoTextBox {
@@ -94,5 +95,5 @@ button {
 }
 
 .TwoBox {
-    max-width: 60px;
+    max-width: 100px;
 }
