@@ -93,6 +93,6 @@ button {
     text-align: center;
 }
 
-.twoBox {
-    
+.TwoBox {
+    max-width: 60px;
 }
