@@ -36,7 +36,7 @@ body {
 
 .box2 {
     color: white;
-    font-size: 11px;
+    font-size: 12px;
 }
 
 button {
@@ -49,6 +49,7 @@ button {
 .mainText {
     display: flex;
     justify-content: space-around;
+    gap: 55px;
 }
 
 .leftBox{
