@@ -86,8 +86,13 @@ button {
 .twoContainer {
     display: flex;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .twoTextBox {
     text-align: center;
+}
+
+.twoBox {
+    
 }
