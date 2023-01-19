@@ -28,6 +28,11 @@ body {
     font-size: 13px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .box1 {
     color: white;
     font-size: 34px;
@@ -43,6 +48,10 @@ button {
     margin-top: 10px;
     background-color: rgb(104,159,247);
     color: white;
+    padding-left: 13px;
+    padding-right: 13px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     border: 0px;
     border-radius: 4px;
 }
