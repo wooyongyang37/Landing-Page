@@ -78,7 +78,8 @@ button {
 }
 
 .parentContainer {
-    
+    display: flex;
+    justify-content: center;
 }
 
 .twoContainer {
