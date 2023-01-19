@@ -100,5 +100,7 @@ button {
 }
 
 .TwoBox {
-    max-width: 130px;
+    max-width: 100px;
+    text-align: center;
+    font-size: 11px;
 }
