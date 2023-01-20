@@ -157,6 +157,7 @@ button {
     display: flex;
     color: white;
     justify-content: space-around;
+    border-radius: 6px;
 }
 
 .fourTop {
