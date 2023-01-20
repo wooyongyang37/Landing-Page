@@ -126,8 +126,15 @@ button {
     background-color: #E5E7EB;
     display: flex;
     justify-content: center;
+    
 }
 
 .threeTextBox {
     margin: 120px;
+}
+
+.boxTop {
+    max-width: 500px;
+    max-height: 200px;
+    
 }
