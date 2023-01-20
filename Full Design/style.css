@@ -175,3 +175,12 @@ button {
     padding-right: 20px;
     font-weight: bold;
 }
+
+.five {
+    padding: 25px;
+    background-color: #1F2937;
+    color: white;
+    align-items: center;
+    text-align: center;
+    font-size: 10px;
+}
