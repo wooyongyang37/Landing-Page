@@ -156,6 +156,13 @@ button {
     padding: 30px;
     display: flex;
     color: white;
-    
     justify-content: space-around;
+}
+
+.fourTop {
+    font-weight: bold;
+}
+
+.fourBottom {
+    font-size: 12px;
 }
