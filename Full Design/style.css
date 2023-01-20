@@ -170,6 +170,8 @@ button {
 
 .fourButton {
     border: 1px solid white;
-
-    
+    background-color: rgb(59,130,246);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
 }
