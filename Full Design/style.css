@@ -156,4 +156,6 @@ button {
     padding: 30px;
     display: flex;
     color: white;
+    
+    justify-content: space-around;
 }
